@@ -1,0 +1,10 @@
+services:
+  dev:
+    build: .
+    container_name: python-dev
+    volumes:
+      - .:/workspace
+      - ./data:/workspace/data
+    working_dir: /workspace
+    tty: true
+    command: tail -f /dev/null
