@@ -2,7 +2,7 @@
 
 > 🚀 **Proyecto personal de aprendizaje sobre redes neuronales convolucionales (CNN)**
 
-Este repositorio contiene un notebook desarrollado con el objetivo de aprender y practicar conceptos de clasificación de imagenes, utilizando redes convolucionales.
+Este repositorio contiene un notebook desarrollado con el objetivo de aprender y practicar conceptos de clasificación de imágenes, utilizando redes convolucionales.
 
 El proyecto se basa en el conjunto de datos *Rock-Paper-Scissors* de [TensorFlow Datasets](https://www.tensorflow.org/datasets/catalog/rock_paper_scissors).
 
